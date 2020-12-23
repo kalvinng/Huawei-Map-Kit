@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"2640852000008505508",
+		"product_id":"736430079244754025",
+		"client_id":"523653623884820864",
+		"client_secret":"48B5C6477422C3FC318B90FBF27C5E9AC10A0BFE9F97D447C85ED204AB7EEF4D",
+		"project_id":"736430079244754025",
+		"app_id":"103546421",
+		"api_key":"CgB6e3x996ap2/qWku4gPQY2ct1W1hc+kPTba2wmgQuoFFG8KGIAIT0PTGfxOq8it+cG8ZZ4lZOrp3N6A3HtG12V",
+		"package_name":"com.huawei.maplabs"
+	},
+	"configuration_version":"1.0"
+}
